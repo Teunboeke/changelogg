@@ -2,3 +2,4 @@
 <?php
 
 exec('git pull origin ');
+exec('git log --pretty=format:"%h | %an | %cd | %s" --date=short', $buffer);
