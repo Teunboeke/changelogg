@@ -25,3 +25,4 @@ for ($i = 0; $i<= MAX_LOG; $i++) {
 
                     $content .= "\xA----------\xA";
         $content .= trim($date) . "\xA";
+    }
