@@ -17,3 +17,4 @@ for ($i = 0; $i<= MAX_LOG; $i++) {
     $row = explode('|', $commit);
 
         if (strpos($row[GIT_TITLE], 'Merge pull request') === 1) {
+        continue;
