@@ -19,3 +19,5 @@ for ($i = 0; $i<= MAX_LOG; $i++) {
         if (strpos($row[GIT_TITLE], 'Merge pull request') === 1) {
         continue;
     }
+
+        if ($date != $row[GIT_DATE]) {
