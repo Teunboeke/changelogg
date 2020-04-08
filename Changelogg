@@ -12,3 +12,4 @@ define('MAX_LOG', 100);
 
 $date = null;
 $content = 'ChangeLog';
+for ($i = 0; $i<= MAX_LOG; $i++) {
