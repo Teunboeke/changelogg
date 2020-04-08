@@ -1,2 +1,4 @@
 #!/usr/bin/php
 <?php
+
+exec('git pull origin ');
