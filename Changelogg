@@ -24,3 +24,4 @@ for ($i = 0; $i<= MAX_LOG; $i++) {
         $date = $row[GIT_DATE];
 
                     $content .= "\xA----------\xA";
+        $content .= trim($date) . "\xA";
