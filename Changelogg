@@ -6,3 +6,4 @@ exec('git log --pretty=format:"%h | %an | %cd | %s" --date=short', $buffer);
 
 define('GIT_TITLE', 3);
 define('GIT_DATE', 2);
+define('GIT_AUTHOR', 1);
