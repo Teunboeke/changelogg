@@ -11,3 +11,4 @@ define('GIT_HASH', 0);
 define('MAX_LOG', 100);
 
 $date = null;
+$content = 'ChangeLog';
