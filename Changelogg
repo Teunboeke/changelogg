@@ -9,3 +9,5 @@ define('GIT_DATE', 2);
 define('GIT_AUTHOR', 1);
 define('GIT_HASH', 0);
 define('MAX_LOG', 100);
+
+$date = null;
