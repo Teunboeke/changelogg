@@ -26,3 +26,5 @@ for ($i = 0; $i<= MAX_LOG; $i++) {
                     $content .= "\xA----------\xA";
         $content .= trim($date) . "\xA";
     }
+
+        $content .= "\t" . trim($row[GIT_HASH]) . ' ' . trim($row[GIT_TITLE]) 
