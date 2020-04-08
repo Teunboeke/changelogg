@@ -3,5 +3,6 @@ build-by-default: true
 branches:
 - master
 projects: [changelogg]
-path " "
+path ""
+icon: 
 ...
