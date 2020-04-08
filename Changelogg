@@ -30,3 +30,4 @@ for ($i = 0; $i<= MAX_LOG; $i++) {
         $content .= "\t" . trim($row[GIT_HASH]) . ' ' . trim($row[GIT_TITLE]) 
         . ' ('. trim($row[GIT_AUTHOR]) . ") \n";
 }
+echo $content;
