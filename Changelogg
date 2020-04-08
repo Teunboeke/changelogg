@@ -22,3 +22,5 @@ for ($i = 0; $i<= MAX_LOG; $i++) {
 
         if ($date != $row[GIT_DATE]) {
         $date = $row[GIT_DATE];
+
+                    $content .= "\xA----------\xA";
