@@ -1,5 +1,5 @@
-name:
-main:
+name: changelogg
+main: Teunboeke/changelogg/main
 api:
 version:
 depend:
