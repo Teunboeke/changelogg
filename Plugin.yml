@@ -7,5 +7,5 @@ author:
 description:
 permisions: 
 changelogg:
- description:
+ description: "permissions to read changelogg"
  default: true
