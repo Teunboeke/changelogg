@@ -2,3 +2,5 @@ name:
 main:
 api:
 version:
+depend:
+author:
