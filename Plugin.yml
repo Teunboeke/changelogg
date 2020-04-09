@@ -4,7 +4,7 @@ api: 3.0.0
 version: 2.0
 depend: []
 author: Teunboeke
-description:
+description: "a pocketmine plugin that let players know updates"
 permisions: 
 changelogg:
  description: "permissions to read changelogg"
