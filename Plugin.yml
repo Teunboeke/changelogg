@@ -4,7 +4,8 @@ api: [5.6, 7.0]
 version: 2.0
 author: Teunboeke
 description: "a pocketmine plugin that let players know updates"
-permisions: 
 changelogg:
- description: "permissions to read changelogg"
+ 
+ permisions:
+ command.read.changelogg
  default: true
