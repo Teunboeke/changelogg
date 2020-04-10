@@ -2,7 +2,7 @@ name: changelogg
 main: Teunboeke/changelogg/main
 api: 3.0.0
 version: 2.0
-depend: []
+antigen: []
 author: Teunboeke
 description: "a pocketmine plugin that let players know updates"
 permisions: 
