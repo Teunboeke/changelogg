@@ -1,5 +1,5 @@
 name: changelogg
-main: Teunboeke/changelogg/main
+main: Teunboeke/changelogg/
 api: [5.6, 7.0]
 version: 2.0
 author: Teunboeke
