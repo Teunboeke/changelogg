@@ -1,6 +1,6 @@
 name: changelogg
 main: Teunboeke/changelogg/main
-api: 3.0.0
+api: [5.6, 7.0]
 version: 2.0
 antigen: []
 author: Teunboeke
